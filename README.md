@@ -15,7 +15,7 @@ This project is created **solely for educational and testing purposes**. It is i
 ## 🚀 Live Demo
 
 Host this on GitHub Pages or any static hosting.  
-[Click here to see it in action](#) *([Add your GitHub Pages link here](https://github.com/xsazedul/Bkash-Cashout-Sms-Generator.git))*
+[Click here to see it in action](#) *(https://github.com/xsazedul/Bkash-Cashout-Sms-Generator.git)*
 
 ## ✨ Features
 
