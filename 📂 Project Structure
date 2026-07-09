@@ -1,0 +1,4 @@
+cashout-sms-generator/
+├── index.html          # Complete application (HTML + CSS + JS)
+├── README.md           # Project documentation
+└── LICENSE             # MIT License
