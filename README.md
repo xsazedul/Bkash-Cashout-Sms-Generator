@@ -1,12 +1,21 @@
 # 💰 Cashout SMS Generator
 
-A simple, elegant, and fully client-side web tool to generate formatted cashout confirmation SMS messages. Perfect for mobile financial services (MFS), banking simulations, or testing SMS formatting.
+A simple, elegant, and fully client-side web tool to generate formatted cashout confirmation SMS messages. Perfect for learning JavaScript, DOM manipulation, and UI/UX prototyping.
+
+## ⚠️ Disclaimer / সতর্কতা
+
+**English:**  
+This project is created **solely for educational and testing purposes**. It is intended to demonstrate how SMS formatting, client-side JavaScript, and local storage work. **Do not** use this tool for any illegal, fraudulent, or unethical activities. The user is fully responsible for any misuse of this tool.
+
+**বাংলা:**  
+এই প্রকল্পটি **শুধুমাত্র শিক্ষামূলক ও পরীক্ষামূলক উদ্দেশ্যে** তৈরি করা হয়েছে। এটি দেখানোর জন্য যে কীভাবে JavaScript-এর মাধ্যমে SMS ফরম্যাটিং, ডেটা ম্যানিপুলেশন ও লোকাল স্টোরেজ কাজ করে। **দয়া করে** এই টুলটি ব্যবহার করে কোনো প্রকার প্রতারণামূলক, অবৈধ বা অনৈতিক কার্যকলাপ করবেন না। এই টুলের অপব্যবহারের জন্য ব্যবহারকারী নিজেই সম্পূর্ণ দায়বদ্ধ।
+
+---
 
 ## 🚀 Live Demo
 
 Host this on GitHub Pages or any static hosting.  
-
-https://xsazedul.github.io/Bkash-Cashout-Sms-Generator/
+[Click here to see it in action](#) *([Add your GitHub Pages link here](https://github.com/xsazedul/Bkash-Cashout-Sms-Generator.git))*
 
 ## ✨ Features
 
@@ -33,4 +42,4 @@ https://xsazedul.github.io/Bkash-Cashout-Sms-Generator/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/xsazedul/bkash-cashout-sms-generator.git
+   git clone https://github.com/xsazedul/Bkash-Cashout-Sms-Generator.git
