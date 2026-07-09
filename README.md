@@ -1,4 +1,4 @@
-# 💰Bkash Cashout SMS Generator
+# 💰 Cashout SMS Generator
 
 A simple, elegant, and fully client-side web tool to generate formatted cashout confirmation SMS messages. Perfect for mobile financial services (MFS), banking simulations, or testing SMS formatting.
 
@@ -6,6 +6,7 @@ A simple, elegant, and fully client-side web tool to generate formatted cashout 
 
 Host this on GitHub Pages or any static hosting.  
 
+https://xsazedul.github.io/Bkash-Cashout-Sms-Generator/
 
 ## ✨ Features
 
